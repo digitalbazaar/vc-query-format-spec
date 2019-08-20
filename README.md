@@ -4,7 +4,7 @@ This repository contains the specification for Verifiable Credentials and
 Verifiable Presentations Query format. You can access the latest version of this 
 specification here: 
 
-**https://digitalbazaar.github.io/vc-query-format-spec/**
+**https://digitalbazaar.github.io/vc-query-spec/**
 
 ## See Also
 
